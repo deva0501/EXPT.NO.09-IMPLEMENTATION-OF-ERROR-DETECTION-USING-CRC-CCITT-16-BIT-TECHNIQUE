@@ -52,6 +52,8 @@ printf("no error detected");
  
 # OUTPUT:
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-31 at 4 51 00 PM" src="https://github.com/user-attachments/assets/34b3c58b-1c70-4b07-9916-886db21e753c" />
+
 
 # RESULT:
 Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
